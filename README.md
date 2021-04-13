@@ -5,8 +5,8 @@
 <br />
 
 <div align="center">
-  <h1>@soufantech/node-ts-lib-boilerplate</h1>
-  <p>SouFan's TypeScript boilerplate for Node.js libraries</p>
+  <h1>@pedrovitor48/reverse</h1>
+  <p>Reverses a string</p>
 </div>
 
 <br />
@@ -62,8 +62,8 @@ In addition to `package.json`, you might also want to check...
 [typescript-image]: https://img.shields.io/badge/Typescript-294E80.svg?style=for-the-badge&logo=typescript
 [typescript-url]: "typescript"
 
-[npm-image]: https://img.shields.io/npm/v/@soufantech/node-ts-lib-boilerplate.svg?style=for-the-badge&logo=npm
-[npm-url]: https://npmjs.org/package/@soufantech/node-ts-lib-boilerplate "npm"
+[npm-image]: https://img.shields.io/npm/v/@pedrovitor48/reverse.svg?style=for-the-badge&logo=npm
+[npm-url]: https://npmjs.org/package/@pedrovitor48/reverse "npm"
 
 [jest-image]: https://img.shields.io/badge/tested_with-jest-99424f.svg?style=for-the-badge&logo=jest
 [jest-url]: https://github.com/facebook/jest "jest"
