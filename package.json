@@ -29,8 +29,6 @@
     "watch": "ts-node-dev src/index.ts",
     "test": "jest --pass-with-no-tests",
     "lint": "tsc --noEmit && eslint ./src/**/*.{ts,tsx}",
-    "clear": "rm -rf dist",
-    "prebuild": "npm run clear",
     "build": "tsc -p ./tsconfig.build.json",
     "prepublishOnly": "npm run build && npm run test --silent"
   },
