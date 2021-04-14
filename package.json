@@ -1,8 +1,10 @@
 {
   "name": "@pedrovitor48/reverse",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reverses a string",
-  "keywords": ["string"],
+  "keywords": [
+    "string"
+  ],
   "author": {
     "name": "Pedro Vitor",
     "url": "https://github.com/pedrovitorrs"
